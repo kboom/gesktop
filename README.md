@@ -6,4 +6,4 @@
 
 ![Gesktop 2](http://s27.postimg.org/nm204jmfn/image.png)
 
-For more information how to use it in practice look into the demo.html file.
+For more information how to use it in practice look into demo.html file.
