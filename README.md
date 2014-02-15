@@ -1,6 +1,6 @@
 # Gesktop - JavaScript virtual desktop GUI
 
-**Gesktop** is a single-page JavaScript application designed to present any content in a manner similiar to the way you know it from the operating systems. Although the final outcome might not be so appealing, the way it's built certainly is. It's highly customisable so you can introduce custom components almost effortlessly. It's easy to maintain. It is dependent on jQuery (no UI dependency) only.
+**Gesktop** is a single-page JavaScript application designed to present any content the way similar to how you know it from the operating systems. Although the final outcome might not be so appealing, the way it's built certainly is. It's highly customisable so you can introduce custom components almost effortlessly. It's easy to maintain. It is dependent on jQuery (no UI dependency) only.
 
 ![Gesktop 1](http://s29.postimg.org/9c1kx08dj/image.png)
 
